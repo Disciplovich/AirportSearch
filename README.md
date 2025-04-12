@@ -27,3 +27,7 @@
 Для проверки выполните:
 **"dotnet --version"**
 Если .NET SDK не установлен, скачайте его с [официального сайта](https://dotnet.microsoft.com/ru-ru/download?spm=a2ty_o01.29997173.0.0.22d63feaDgQdpC).
+3. **Компиляция программы**
+**"dotnet build"**
+4. **Подготовка файла данных**
+Поместите файл airports.dat в корневую папку проекта **(AirportSearch\AirportSearch\bin\Debug)** или укажите путь к нему при запуске программы.
